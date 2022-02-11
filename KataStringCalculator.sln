@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataStringCalculator", "KataStringCalculator\KataStringCalculator.csproj", "{F366CEBB-A8F0-434C-BA80-CD885A22EDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataStringCalculator.Tests", "KataStringCalculator.Tests\KataStringCalculator.Tests.csproj", "{6715F1B8-FD1A-4464-982F-6EEE88ED5661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F366CEBB-A8F0-434C-BA80-CD885A22EDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F366CEBB-A8F0-434C-BA80-CD885A22EDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F366CEBB-A8F0-434C-BA80-CD885A22EDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F366CEBB-A8F0-434C-BA80-CD885A22EDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6715F1B8-FD1A-4464-982F-6EEE88ED5661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6715F1B8-FD1A-4464-982F-6EEE88ED5661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6715F1B8-FD1A-4464-982F-6EEE88ED5661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6715F1B8-FD1A-4464-982F-6EEE88ED5661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26622E1C-78F5-480E-9BF0-022176C317E1}
+	EndGlobalSection
+EndGlobal
